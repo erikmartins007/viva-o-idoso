@@ -39,3 +39,9 @@ Contribuir para a divulgação de informações sobre o envelhecimento e incenti
 ## Contexto acadêmico
 
 Projeto desenvolvido no contexto de atividades acadêmicas do curso de Sistemas de Informação.
+
+## Demonstração visual
+
+A imagem abaixo apresenta a página inicial do site Viva o Idoso.
+
+![Página inicial do Viva o Idoso](pagina-inicial.png.png)
